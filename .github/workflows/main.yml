@@ -1,4 +1,6 @@
-name: CI
+name: Smith Roy
+env:
+  hfjugu:  
 
 on: [push]
 
